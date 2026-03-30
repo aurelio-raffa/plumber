@@ -1,0 +1,14 @@
+.idea
+**/__pycache__
+**/.DS_Store
+/data
+**/*.log
+/mlruns/
+/outputs/
+/archive/
+/.cmdstan/
+**/lightning_logs/
+/outputs
+**/*.7z
+**/*.zip
+**/*.db

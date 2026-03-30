@@ -1,0 +1,9 @@
+project_uri: 'src/stages'                                                           # the path of the directory where each stage scrip is saved
+log_artifacts: false                                                                # whether to log the output file/directory as artifact
+log_models: false                                                                   # whether to log the output model
+
+stages:
+    - hello_world: {}
+
+tags:                                                                               # tags to be applied to the run
+    version: 1.0
