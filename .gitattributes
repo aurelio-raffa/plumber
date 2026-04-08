@@ -28,6 +28,7 @@
 *.ipynb         filter=lfs diff=lfs merge=lfs -text
 *.log           filter=lfs diff=lfs merge=lfs -text
 *.xlsx          filter=lfs diff=lfs merge=lfs -text
+*.lock          filter=lfs diff=lfs merge=lfs -text
 ### add your own here...
 
 ## the "data" folder: since manual changes are discouraged, treat even readable files as LFS
