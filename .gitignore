@@ -5,3 +5,6 @@
 /mlruns/
 /.cmdstan/
 **/lightning_logs/
+/output.log
+/outputs/
+**/*.db
