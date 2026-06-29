@@ -47,6 +47,9 @@ Transform tasks into verifiable goals:
 - "Fix the bug" → "Write a test that reproduces it, then make it pass"
 - "Refactor X" → "Ensure tests pass before and after"
 
+Mark those goal / tasks as TODOs prior to beginning, and report them individually to the user.
+Ask the user for verification of the goals, only _then_ begin the workflow.
+
 For multi-step tasks, state a brief plan:
 ```
 1. [Step] → verify: [check]
