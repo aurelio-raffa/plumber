@@ -1,0 +1,19 @@
+cff-version: 1.2.0
+message: "If you use this template, or a project built from it, please cite it as below."
+type: software
+title: "Plumber: a minimalistic ML pipeline template"
+authors:
+  - given-names: Aurelio
+    family-names: Raffa Ugolini
+repository-code: "https://github.com/aurelio-raffa/plumber"
+abstract: >-
+  A minimalistic template for machine-learning pipelines: each pipeline is a readable YAML file
+  of stages with obvious inputs and outputs, executed with MLflow so that the execution of the
+  code is tracked while the project is developed.
+keywords:
+  - machine learning
+  - pipelines
+  - MLflow
+  - reproducibility
+  - template
+license: MIT
