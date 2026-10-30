@@ -5,6 +5,7 @@ title: "Plumber: a minimalistic ML pipeline template"
 authors:
   - given-names: Aurelio
     family-names: Raffa Ugolini
+    orcid: "https://orcid.org/0009-0003-1545-374X"
 repository-code: "https://github.com/aurelio-raffa/plumber"
 abstract: >-
   A minimalistic template for machine-learning pipelines: each pipeline is a readable YAML file
